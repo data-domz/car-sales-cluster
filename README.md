@@ -1,4 +1,4 @@
-# ## Unsupervised Learning: Segmentation and Clustering of US Used Car Sales Data 
+### Unsupervised Learning: Segmentation and Clustering of US Used Car Sales Data 
 
 ### ABSTRACT 
 
